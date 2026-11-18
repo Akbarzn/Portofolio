@@ -35,7 +35,7 @@ export function Contact() {
               <div>
                 <p className="text-sm text-muted-foreground">Email</p>
                 <a href="mailto:akbar@example.com" className="text-foreground hover:text-primary transition-colors">
-                  akbar@example.com
+                  akbarzn13@gmail.com
                 </a>
               </div>
             </div>
